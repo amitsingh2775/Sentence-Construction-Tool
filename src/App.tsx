@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import  { useState, useEffect } from 'react';
 import { Timer } from './components/Timer';
 import { Question } from './components/Question';
 import { FeedbackScreen } from './components/FeedbackScreen';

@@ -1,6 +1,6 @@
 import React from 'react';
 import type { Question } from '../types';
-import { CheckCircle, XCircle } from 'lucide-react';
+
 
 interface FeedbackScreenProps {
   questions: Question[];
